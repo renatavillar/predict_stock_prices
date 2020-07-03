@@ -3,11 +3,8 @@ pymongo
 keras
 sklearn
 pandas
-numpy
 os
 time
 warnings
-threading
-h5py
 matplotlib.pyplot
 tensorflow
