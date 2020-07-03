@@ -2,4 +2,13 @@ streamlit
 pymongo
 keras
 sklearn
-sklearn
+pandas
+json
+numpy
+os
+time
+warnings
+threading
+h5py
+matplotlib.pyplot
+tensorflow
