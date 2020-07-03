@@ -1,7 +1,5 @@
 streamlit
 pymongo
-keras.layers.core
-keras.layers.recurrent
-keras.models
-sklearn.preprocessing
-sklearn.model_selection
+keras
+sklearn
+sklearn
