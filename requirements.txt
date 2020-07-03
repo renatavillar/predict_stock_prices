@@ -2,8 +2,6 @@ streamlit
 pymongo
 keras
 sklearn
-pandas
-os
 time
 warnings
 matplotlib.pyplot
