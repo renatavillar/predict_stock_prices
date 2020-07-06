@@ -144,7 +144,7 @@ def main():
 
 
         #LSTM
-        configs = json.loads(open(os.path.join(os.path.dirname('/home/renata/DataScience/stock_prices/'), 'configs.json')).read())
+        configs = json.loads(open(os.path.join(os.path.dirname('your_path'), 'configs.json')).read())
         warnings.filterwarnings("ignore")
 
         model = Sequential()
