@@ -7,6 +7,6 @@ configs = json.loads(open(os.path.join(os.path.dirname('your_path'), 'configs.js
 
 Then, from your directory, run the app through the command streamlit run app.py
 
-Below is an image of the app:
+Below is a picture of the app:
 
 ![alt text](https://github.com/renatavillar/predict_stock_prices/blob/master/app.png)
